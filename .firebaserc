@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angutanban": {
+      "hosting": {
+        "myTanban": [
+          "angutanban"
+        ]
+      }
+    }
+  }
+}
